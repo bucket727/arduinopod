@@ -28,6 +28,4 @@ The device includes a **speaker for audio output**, an **LED that synchronizes w
 4. When a song plays:
    - The **speaker outputs the melody notes**
    - The **LED blinks in sync with the note timing**
-
-## Language
-- **C++ (Arduino)**
+5. Currently I have only put three songs (Green Hill Zone, Pallet Town, Tetris Theme); however, feel free to change these songs into anything that you would like!
