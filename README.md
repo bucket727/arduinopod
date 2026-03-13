@@ -1,5 +1,7 @@
 # Arduino Nano “iPod”
 
+![image alt](https://github.com/bucket727/arduinopod/blob/main/projectt.png?raw=true)
+
 
 ## Overview
 This project is a simple **Arduino Nano music player** inspired by an iPod. A **potentiometer (knob)** controls which song is played depending on how far it is twisted. As the knob rotates, the Arduino reads the analog value and selects a different melody.
